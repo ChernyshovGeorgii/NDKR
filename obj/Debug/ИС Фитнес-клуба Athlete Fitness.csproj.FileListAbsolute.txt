@@ -1,0 +1,57 @@
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.mdb
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.exe.config
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.exe
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.pdb
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.csprojAssemblyReference.cache
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.Properties.Resources.resources
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.csproj.GenerateResource.cache
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.csproj.CoreCompileInputs.cache
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.exe
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.pdb
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm.resources
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.OrgZan.resources
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm1.resources
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm2.resources
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.Designer.cs
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.xsc
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.xsd
+C:\Users\Студент МПТ\source\repos\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.xss
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.Designer.cs
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.xsc
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.xsd
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\_ИС_Фитнес_клуба_Athlete_FitnessDataSet.xss
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.mdb
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.exe.config
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.exe
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\ИС Фитнес-клуба Athlete Fitness.pdb
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.csprojAssemblyReference.cache
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm1.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.OrgZan.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.Properties.Resources.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.csproj.GenerateResource.cache
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.csproj.CoreCompileInputs.cache
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.exe
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС Фитнес-клуба Athlete Fitness.pdb
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.SearchForm.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.GlavForm.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm2.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.Klient.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.Pol.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.Sotrudnik.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm3.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.Kval.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm4.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.Postavshik.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm5.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.PostTov.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.AddForm6.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.PrAb.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.SearchForm1.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.SearchForm2.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.SearchForm3.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.SearchForm4.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\obj\Debug\ИС_Фитнес_клуба_Athlete_Fitness.SearchForm5.resources
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\OrgZan.resx
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\OrgZan.cs
+C:\Users\Студент МПТ\Desktop\ИС Фитнес-клуба Athlete Fitness\ИС Фитнес-клуба Athlete Fitness\bin\Debug\OrgZan.Designer.cs
